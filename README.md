@@ -25,4 +25,4 @@ cd mern-app
 cd frontend
 npm run dev
 
-The frontend will be available at  http://localhost:5175/
+The frontend will be available at  http://localhost:5173/
