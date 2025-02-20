@@ -1,6 +1,6 @@
 Full-stack MERN-based application
 
-This repository integrates all of the previous assignments.
+This app integrates all of the previous assignments.
 
 To run frontend,
 
