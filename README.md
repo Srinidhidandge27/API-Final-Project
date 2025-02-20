@@ -2,6 +2,12 @@ Full-stack MERN-based application
 
 This repository integrates all of the previous assignments.
 
+To run frontend,
+
+cd mern-app
+cd frontend
+npm run dev
+
 To run backend,
 
  cd mern-app
@@ -17,11 +23,6 @@ POST: http://localhost:5000/players
 PATCH: http://localhost:5000/players/id
 DELETE: http://localhost:5000/players/id
 
-To run frontend,
-
-cd mern-app
-cd frontend
-npm run dev
 
 
 
